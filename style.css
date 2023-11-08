@@ -1,7 +1,23 @@
-div{
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* for border */
+
+.border{
     background-color: antiquewhite;
     width: 200px;
     height: 200px;
     border: 20px green;
     border-style: outset; /* solid, dotted, double, dashed, speacial = groove, ridge, inset, outset, none, hidden */
+}
+
+/* for padding */
+
+.padding{
+    width: 300px;
+    background-color: aqua;
+    margin-top: 50px;
+    padding-top: 50px;
 }
