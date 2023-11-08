@@ -1,0 +1,7 @@
+div{
+    background-color: antiquewhite;
+    width: 200px;
+    height: 200px;
+    border: 20px green;
+    border-style: outset; /* solid, dotted, double, dashed, speacial = groove, ridge, inset, outset, none, hidden */
+}
